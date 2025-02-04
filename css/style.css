@@ -1778,7 +1778,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #646464;
+  border-color: #008083;
 }
 
 .row-pb-md {
